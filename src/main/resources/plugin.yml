@@ -1,0 +1,10 @@
+name: VpnJoinChecker
+version: ${project.version}
+main: cz.hernikplays.vpnjoinchecker.VpnJoinChecker
+authors: [ hernik ]
+description: Check for VPNs on player join
+website: https://github.com/hernikplays/VpnJoinChecker
+commands:
+  togglevpncheck:
+    description: Toggles VPN checking
+    usage: /<command>
